@@ -7,7 +7,6 @@ class App extends Component {
     return (
       <div >
           <Quiz />
-          <h2>Hello</h2>
         </div>
     )
   }
